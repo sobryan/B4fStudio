@@ -1,0 +1,5 @@
+{
+  "name": "BFF Builder Studio",
+  "description": "A visual Backend-for-Frontend builder. Design public endpoints, import Swagger/OpenAPI sources, map fields visually, and generate production-ready code in Java, Python, PHP, or Next.js using Gemini 1.5 Pro.",
+  "requestFramePermissions": []
+}
